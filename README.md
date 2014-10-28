@@ -1,0 +1,4 @@
+Richardson
+==========
+
+Implements Richardson extrapolation.
